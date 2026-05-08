@@ -164,5 +164,7 @@ ProbeX is intended **strictly for educational purposes and authorized security t
 
 **Ricardo Moreira** — [@RicardoMor98](https://github.com/RicardoMor98)
 **Nair Woroniuk** — [@woroniukn](https://github.com/woroniukn)
-Capstone Project · INCO Academy Cybersecurity Course  
+
+Capstone Project · INCO Academy Cybersecurity Course
+
 Built with Python · For authorized testing only
