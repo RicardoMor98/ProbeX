@@ -1,7 +1,7 @@
 # 🔍 ProbeX — Python Security Toolkit
-
-> A dual-module Python security toolkit for network reconnaissance and web vulnerability testing.  
+ 
 > Capstone Project for **INCO Academy Cybersecurity Course**.
+> A dual-module Python security toolkit for network reconnaissance and web vulnerability testing. 
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-3.1.3-lightgrey?logo=flask)
