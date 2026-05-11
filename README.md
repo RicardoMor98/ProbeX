@@ -59,7 +59,7 @@ pip install -r requirements.txt
 
 ---
 
-## 🚀 Usage
+## 🚀 Usage (Take in notice to run the 3 Python Scripts in separate Terminal windows)
 
 ### 1. Start the vulnerable Flask test app
 
